@@ -1,4 +1,4 @@
-This is some text. 
+This is cool character text. 
 
 Now I'm on a different branch. 
 
